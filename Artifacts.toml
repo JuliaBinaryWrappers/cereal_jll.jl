@@ -1,0 +1,6 @@
+[cereal]
+git-tree-sha1 = "2665dbf318410d9a87b85d2eb4a60402fb658a0d"
+
+    [[cereal.download]]
+    sha256 = "d6135c2deeedab90ced14f5d23c5b48f652a669049e83d5ee4a5e8d7b8345d67"
+    url = "https://github.com/JuliaBinaryWrappers/cereal_jll.jl/releases/download/cereal-v1.3.2+0/cereal.v1.3.2.any.tar.gz"
